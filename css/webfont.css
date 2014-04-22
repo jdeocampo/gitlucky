@@ -1,0 +1,26 @@
+/* Regular */
+@font-face {
+    font-family: 'Aller';
+    src: url('../font/Aller_Rg.ttf');
+    src: url('../font/Aller_Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Aller';
+    src: url('../font/Aller_Bd.ttf');
+    src: url('../font/Aller_Bd.ttf') format('truetype');
+    font-weight: normal;
+    font-style: bold;
+}
+
+/* Light */
+@font-face {
+    font-family: 'Aller';
+    src: url('../font/Aller_Lt.ttf');
+    src: url('../font/Aller_Lt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: lighter;
+}
